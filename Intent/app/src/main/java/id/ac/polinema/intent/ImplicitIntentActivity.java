@@ -21,6 +21,7 @@ public class ImplicitIntentActivity extends AppCompatActivity {
     private static final int GALLERY_REQUEST_CODE = 1;
 
     private ImageView avatarImage;
+//    private ImageView avatar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
